@@ -1,4 +1,4 @@
-# Cyclistic-Bike-Share-Data-Analysis-Case-Study
+# Cyclistic Bike Share Data Analysis Case Study
 
 ## Introduction
 Welcome to the Cyclistic Bike Share Analysis Case Study repository! This analysis is part of the Google Data Analysis Professional Certificate Course 8 Case Study. In this project, we step into the role of a junior data analyst within the marketing analyst team at Cyclistic, a fictional company.
