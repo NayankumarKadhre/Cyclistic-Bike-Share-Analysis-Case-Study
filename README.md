@@ -23,12 +23,12 @@ Note: December 2023 data is currently unavailable but might be added later.
 
 ## R epository Structure:
 
-- Code (Analysis): Contains the analysis code and report
-  • R script for data wrangling, analysis, and visualization
-  • PDF report presenting analysis findings and recommendations
-- Presentation: Contains presentation materials
-  • PDF version of the presentation
-  • Editable PowerPoint version of the presentation
-- Visualizations: Contains generated visualizations
-  • PNG files of all visualizations
-  • Consolidated PDF of all visualizations
+- **Code (Analysis):** Contains the analysis code and report
+  - R script for data wrangling, analysis, and visualization
+  - PDF report presenting analysis findings and recommendations
+- **Presentation:** Contains presentation materials
+  - PDF version of the presentation
+  - Editable PowerPoint version of the presentation
+- **Visualizations:** Contains generated visualizations
+  - PNG files of all visualizations
+  - Consolidated PDF of all visualizations
