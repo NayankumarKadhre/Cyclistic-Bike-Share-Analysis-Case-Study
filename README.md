@@ -15,9 +15,9 @@ The analysis is conducted using RStudio with the following versions:
 - lubridate version: 1.9.3
 
 ## About Data
-Source: Cyclistic historical trip data (2023 excluding December) - https://divvy-tripdata.s3.amazonaws.com/index.html <br>
-Format: Multiple zip files containing individual CSV files for each month. <br>
-Preprocessing: Initial dataset for 2023 included over 5.49 million rows and required cleaning and modification before analysis. <br>
+- **Source:** Cyclistic historical trip data (2023 excluding December) - https://divvy-tripdata.s3.amazonaws.com/index.html <br>
+- **Format:** Multiple zip files containing individual CSV files for each month. <br>
+- **Preprocessing:** Initial dataset for 2023 included over 5.49 million rows and required cleaning and modification before analysis. <br>
 
 Note: December 2023 data is currently unavailable but might be added later.
 
