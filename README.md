@@ -19,8 +19,6 @@ The analysis is conducted using RStudio with the following versions:
 - **Format:** Multiple zip files containing individual CSV files for each month. <br>
 - **Preprocessing:** Initial dataset for 2023 included over 5.49 million rows and required cleaning and modification before analysis. <br>
 
-Note: December 2023 data is currently unavailable but might be added later.
-
 ## R epository Structure:
 
 - **Code (Analysis):** Contains the analysis code and report
